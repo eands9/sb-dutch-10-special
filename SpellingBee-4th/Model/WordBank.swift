@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"snuff", sentence:""))
-        list.append(Word(word:"roodebok", sentence:""))
-        list.append(Word(word:"wainscot", sentence:""))
-        list.append(Word(word:"flense", sentence:""))
-        list.append(Word(word:"muishond", sentence:""))
-        list.append(Word(word:"witloof", sentence:""))
-        list.append(Word(word:"springbok", sentence:""))
-        list.append(Word(word:"maelstrom", sentence:""))
-        list.append(Word(word:"bobbejaan", sentence:""))
-        list.append(Word(word:"apartheid", sentence:""))
+        list.append(Word(word:"voortrekker", sentence:""))
+        list.append(Word(word:"uitlander", sentence:""))
+        list.append(Word(word:"hollandaise", sentence:""))
+        list.append(Word(word:"galjoen", sentence:""))
+        list.append(Word(word:"schipperke", sentence:""))
+        list.append(Word(word:"keest", sentence:""))
+        list.append(Word(word:"hartebeest", sentence:""))
+        list.append(Word(word:"mynheer", sentence:""))
+        list.append(Word(word:"waterzooi", sentence:""))
+        list.append(Word(word:"keeshond", sentence:""))
     }
 }
